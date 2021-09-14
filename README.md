@@ -1,1 +1,1 @@
-This project is made by @JekaFRIZZ
+This project is made by @JekaFRIZZ.

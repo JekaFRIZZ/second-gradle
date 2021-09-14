@@ -1,0 +1,4 @@
+rootProject.name = 'multy-project'
+include 'core'
+include 'api'
+
